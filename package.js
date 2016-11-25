@@ -12,7 +12,9 @@ var npmModules = {
   "evloop-monitor": "0.1.0",
   "pidusage": "0.1.1",
   "lru-cache": "4.0.0",
-  "json-stringify-safe": "5.0.1"
+  "json-stringify-safe": "5.0.1",
+  "logstar": "https://github.com/DispatchMe/logstar/tarball/a31ae5eaaaf743941ca82d3f017446ecf53a371d",
+  "node-dogstatsd": "0.0.6",
 };
 
 Npm.depends(npmModules);
