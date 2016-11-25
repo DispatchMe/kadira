@@ -1,8 +1,8 @@
 Package.describe({
   "summary": "Performance Monitoring for Meteor",
   "version": "2.30.2",
-  "git": "https://github.com/meteorhacks/kadira.git",
-  "name": "meteorhacks:kadira"
+  "git": "https://github.com/DispatchMe/kadira.git",
+  "name": "dispatch:kadira"
 });
 
 var npmModules = {
@@ -13,7 +13,7 @@ var npmModules = {
   "pidusage": "0.1.1",
   "lru-cache": "4.0.0",
   "json-stringify-safe": "5.0.1",
-  "logstar": "https://github.com/DispatchMe/logstar/tarball/a31ae5eaaaf743941ca82d3f017446ecf53a371d",
+  "logstar": "3.0.0",
   "node-dogstatsd": "0.0.6",
 };
 
