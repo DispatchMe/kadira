@@ -13,7 +13,7 @@ var npmModules = {
   "pidusage": "0.1.1",
   "lru-cache": "4.0.0",
   "json-stringify-safe": "5.0.1",
-  "logstar": "3.0.0",
+  "logstar": "3.1.0",
   "node-dogstatsd": "0.0.6",
 };
 
